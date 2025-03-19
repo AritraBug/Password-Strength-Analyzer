@@ -15,7 +15,7 @@ A web application that analyzes password strength and provides suggestions for i
 
 ## Live Demo
 
-Check out the live application: [Password Strength Analyzer](https://your-deployed-url.vercel.app)
+Check out the live application: [Password Strength Analyzer] https://password-strength-analyzer-zeta.vercel.app/
 
 ## Technology Stack
 
